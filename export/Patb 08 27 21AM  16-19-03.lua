@@ -1,0 +1,18 @@
+sets.exported={
+    main={ name="Malevolence", augments={'INT+10','Mag. Acc.+10','"Mag.Atk.Bns."+10','"Fast Cast"+5',}},
+    sub={ name="Malevolence", augments={'INT+1','Mag. Acc.+1','"Mag.Atk.Bns."+5',}},
+    range={ name="Doomsday", augments={'"Mag.Atk.Bns."+15','"Store TP"+5',}},
+    ammo="Orichalc. Bullet",
+    head={ name="Herculean Helm", augments={'CHR+10','"Mag.Atk.Bns."+23','Accuracy+13 Attack+13','Mag. Acc.+10 "Mag.Atk.Bns."+10',}},
+    body={ name="Rawhide Vest", augments={'HP+50','"Subtle Blow"+7','"Triple Atk."+2',}},
+    hands={ name="Herculean Gloves", augments={'Accuracy+2 Attack+2','"Mag.Atk.Bns."+30','Mag. Acc.+15 "Mag.Atk.Bns."+15',}},
+    legs={ name="Herculean Trousers", augments={'Mag. Acc.+19 "Mag.Atk.Bns."+19','Weapon skill damage +5%','INT+8','Mag. Acc.+12','"Mag.Atk.Bns."+11',}},
+    feet={ name="Herculean Boots", augments={'"Mag.Atk.Bns."+30','Pet: Accuracy+21 Pet: Rng. Acc.+21','Accuracy+13 Attack+13','Mag. Acc.+11 "Mag.Atk.Bns."+11',}},
+    neck="Deviant Necklace",
+    waist="Fotia Belt",
+    left_ear="Hecate's Earring",
+    right_ear="Friomisi Earring",
+    left_ring="Stormsoul Ring",
+    right_ring="Apate Ring",
+    back="Toro Cape",
+}

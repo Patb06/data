@@ -1,0 +1,18 @@
+sets.exported={
+    main={ name="Malevolence", augments={'INT+10','Mag. Acc.+10','"Mag.Atk.Bns."+10','"Fast Cast"+5',}},
+    sub={ name="Malevolence", augments={'INT+1','Mag. Acc.+1','"Mag.Atk.Bns."+5',}},
+    range={ name="Doomsday", augments={'"Mag.Atk.Bns."+15','"Store TP"+5',}},
+    ammo="Ra'Kaznar Bullet",
+    head={ name="Taeon Chapeau", augments={'Accuracy+17 Attack+17','"Dual Wield"+5','Crit. hit damage +3%',}},
+    body={ name="Rawhide Vest", augments={'HP+50','"Subtle Blow"+7','"Triple Atk."+2',}},
+    hands={ name="Leyline Gloves", augments={'Accuracy+15','Mag. Acc.+15','"Mag.Atk.Bns."+15','"Fast Cast"+3',}},
+    legs={ name="Taeon Tights", augments={'Accuracy+23','"Triple Atk."+2','STR+6',}},
+    feet={ name="Herculean Boots", augments={'Accuracy+25','"Dual Wield"+3','MND+3','Attack+5',}},
+    neck="Lissome Necklace",
+    waist="Hurch'lan Sash",
+    left_ear="Dudgeon Earring",
+    right_ear="Heartseeker Earring",
+    left_ring="Rajas Ring",
+    right_ring="Apate Ring",
+    back="Kayapa Cape",
+}

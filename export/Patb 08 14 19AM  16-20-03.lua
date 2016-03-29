@@ -1,0 +1,18 @@
+sets.exported={
+    main="Fettering Blade",
+    sub={ name="Atoyac", augments={'Occ. atk. twice+8','"Mag.Atk.Bns."+10',}},
+    range={ name="Doomsday", augments={'"Mag.Atk.Bns."+15','"Store TP"+5',}},
+    ammo="Adlivun Bullet",
+    head={ name="Pursuer's Beret", augments={'DEX+7','AGI+10','"Recycle"+15',}},
+    body="Councilor's Garb",
+    hands={ name="Leyline Gloves", augments={'Accuracy+15','Mag. Acc.+15','"Mag.Atk.Bns."+15','"Fast Cast"+3',}},
+    legs={ name="Taeon Tights", augments={'Accuracy+23','"Triple Atk."+2','STR+6',}},
+    feet={ name="Herculean Boots", augments={'Accuracy+30','"Dual Wield"+1','AGI+2','Attack+8',}},
+    neck="Iqabi Necklace",
+    waist="Hurch'lan Sash",
+    left_ear="Clearview Earring",
+    right_ear="Volley Earring",
+    left_ring="Barataria Ring",
+    right_ring="Epona's Ring",
+    back="Kayapa Cape",
+}

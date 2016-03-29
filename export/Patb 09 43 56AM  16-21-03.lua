@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Ochu", augments={'STR+7','DEX+8','Ninjutsu skill +7','DMG:+8',}},
+    sub={ name="Ochu", augments={'STR+7','DEX+8','Ninjutsu skill +7','DMG:+8',}},
+    ammo="Ginsen",
+    head={ name="Mochi. Hatsuburi +1", augments={'Increases elem. ninjutsu III damage',}},
+    body={ name="Samnuha Coat", augments={'Mag. Acc.+4','"Mag.Atk.Bns."+5','"Fast Cast"+1',}},
+    hands={ name="Herculean Gloves", augments={'Accuracy+2 Attack+2','"Mag.Atk.Bns."+30','Mag. Acc.+15 "Mag.Atk.Bns."+15',}},
+    legs={ name="Herculean Trousers", augments={'Mag. Acc.+19 "Mag.Atk.Bns."+19','Weapon skill damage +5%','INT+8','Mag. Acc.+12','"Mag.Atk.Bns."+11',}},
+    feet={ name="Herculean Boots", augments={'"Mag.Atk.Bns."+30','Pet: Accuracy+21 Pet: Rng. Acc.+21','Accuracy+13 Attack+13','Mag. Acc.+11 "Mag.Atk.Bns."+11',}},
+    neck="Incanter's Torque",
+    waist="Hachirin-no-Obi",
+    left_ear="Friomisi Earring",
+    right_ear="Hecate's Earring",
+    left_ring="Mujin Band",
+    right_ring="Acumen Ring",
+    back="Toro Cape",
+}
